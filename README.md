@@ -7,3 +7,5 @@
 Want to learn more? [See the wiki.](https://github.com/mbostock/d3/wiki)
 
 For examples, [see the gallery](https://github.com/mbostock/d3/wiki/Gallery) and [mbostock’s bl.ocks](http://bl.ocks.org/mbostock).
+
+Ask Questions on  [Google Groups](https://groups.google.com/forum/#!forum/d3-js) or  [Stack Overflow](http://stackoverflow.com/questions/tagged/d3.js?sort=newest)
